@@ -1,0 +1,19 @@
+.questions {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  min-height: 100vh;
+  background: linear-gradient(135deg, rgb(20, 20, 30), rgb(90, 50, 120), rgb(150, 80, 180));
+  padding: 2em;
+  box-sizing: border-box;
+  overflow: hidden;
+}
+
+.questionWrapper {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
